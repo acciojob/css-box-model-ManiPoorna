@@ -1,25 +1,25 @@
 
 /* Your CSS Code here. */
 .margin{
-	width : 300px;
+	width : 100%;
 	border : 1px solid black;
 	margin : 20px;
 	padding : 30px;
 }
 .border {
-	width : 300px;
+	width : 90%;
 	border : 30px solid blue;
 /* 	padding : 30px; */
 	background-color : lightblue;
 }
 .padding {
-	width : 300px;
+	width : 80%;
 /* 	border : 2px solid black; */
 	padding : 30px;
 	background-color : lightblue;
 }
 .textarea{
-	width : 300px;
+	width : 70%;
 	padding : 20px;
 	border : 2px solid black;
 }
