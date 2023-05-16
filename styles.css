@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+.margin{
+	border : 1px solid black;
+	margin : 20px;
+	padding : 30px;
+}
+.border {
+	border : 30px solid blue;
+/* 	padding : 30px; */
+	background-color : lightblue;
+}
+.padding {
+/* 	border : 2px solid black; */
+	padding : 30px;
+	background-color : lightblue;
+}
+.textarea{
+	padding : 20px;
+	border : 2px solid black;
+}
