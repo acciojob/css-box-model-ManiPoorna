@@ -1,20 +1,20 @@
 
 /* Your CSS Code here. */
 .margin{
-	width : 100%;
-	border : 1px solid black;
+	width : 300px;
+	background-color : lightblue;
+	border : 15px solid blue;
 	margin : 20px;
-	padding : 30px;
+	padding : 50px;
 }
-.border {
+/* .border {
 	width : 90%;
 	border : 30px solid blue;
-/* 	padding : 30px; */
+	padding : 30px;
 	background-color : lightblue;
 }
 .padding {
 	width : 80%;
-/* 	border : 2px solid black; */
 	padding : 30px;
 	background-color : lightblue;
 }
@@ -22,4 +22,7 @@
 	width : 70%;
 	padding : 20px;
 	border : 2px solid black;
-}
+} */
+
+
+ */
